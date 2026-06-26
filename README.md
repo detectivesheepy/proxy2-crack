@@ -1,4 +1,4 @@
-# proxy2
+# proxy2-crack
 
 This is an edited and better version of the Education Queensland proxy.
 
